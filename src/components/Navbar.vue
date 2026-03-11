@@ -20,6 +20,10 @@
 
 <style scoped>
 
+body{
+padding-top:80px;
+}
+
 .nav{
 display:flex;
 justify-content:space-between;
@@ -27,6 +31,19 @@ align-items:center;
 padding:20px 8%;
 background:#1e293b;
 color:white;
+
+position:fixed;
+top:0;
+left:0;
+width:100%;
+z-index:1000;
+box-sizing:border-box;
+}
+
+:deep(.router-link-exact-active){
+color:#3b82f6;
+border-bottom:2px solid #3b82f6;
+padding-bottom:4px;
 }
 
 .logo{

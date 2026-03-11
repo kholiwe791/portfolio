@@ -10,18 +10,8 @@
       </div>
 
       <div class="project-card">
-        <h3>Payroll Application</h3>
-        <p>A Java-based system designed to manage employee records, salaries, and payroll processing.</p>
-      </div>
-
-      <div class="project-card">
         <h3>Nanny Service System</h3>
         <p>A booking and management platform for nanny services, allowing clients to request and schedule childcare assistance.</p>
-      </div>
-
-      <div class="project-card">
-        <h3>SQL Database System</h3>
-        <p>An advanced database project using SQL with triggers, procedures, functions, and data management features.</p>
       </div>
 
       <div class="project-card">
@@ -47,14 +37,13 @@
 .projects {
   padding: 80px 10%;
   text-align: center;
-  background: #f8fafc;
+  background:linear-gradient(135deg,#f1f5f9,#e2e8f0);
   font-family: 'Poppins', sans-serif;
 }
 
 h1 {
   color: #1e3a8a; /* darker blue for better contrast */
-  margin-bottom: 50px;
-  font-size: 2.8rem;
+  margin-bottom: 40px;
 }
 
 .projects-grid {

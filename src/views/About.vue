@@ -9,7 +9,7 @@
 <h1>About Me</h1>
 
 <p>
-Hello! I'm <b>Kholiwe Mafenuka</b>, an Information Systems student
+Hello! I'm <b>Kholiwe Faith Mafenuka</b>, an ICT in Applications Development student
 passionate about software development and technology.
 </p>
 
@@ -39,7 +39,7 @@ and creating user-friendly digital solutions.
 
 .about{
 padding:80px 10%;
-background:#f8fafc;
+background:linear-gradient(135deg,#f1f5f9,#e2e8f0);
 }
 
 .about-container{
@@ -54,7 +54,7 @@ max-width:500px;
 }
 
 h1{
-color:#3b82f6;
+color:#1e3a8a;
 margin-bottom:20px;
 }
 

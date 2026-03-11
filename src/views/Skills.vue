@@ -34,13 +34,18 @@
 
 <style scoped>
 
+body{
+padding-top:80px;
+}
+
 .skills{
 padding:80px 10%;
 text-align:center;
+background:linear-gradient(135deg,#f1f5f9,#e2e8f0);
 }
 
 h1{
-color:#3b82f6;
+color:#1e3a8a;
 margin-bottom:40px;
 }
 

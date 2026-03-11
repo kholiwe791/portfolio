@@ -35,10 +35,14 @@ Feel free to reach out for collaborations, projects, or opportunities.
 
 <style scoped>
 
+body{
+padding-top:80px;
+}
+
 .contact{
 padding:80px 10%;
 text-align:center;
-background:#f8fafc;
+background:linear-gradient(135deg,#f1f5f9,#e2e8f0);
 }
 
 h1{
@@ -61,11 +65,14 @@ margin:auto;
 }
 
 .contact-card{
-background:white;
+background:#ffffff;
 padding:25px;
 border-radius:12px;
 box-shadow:0 8px 20px rgba(0,0,0,0.08);
 transition:0.3s;
+word-break: break-word;
+overflow-wrap: break-word;
+font-size:0.95rem;
 }
 
 .contact-card:hover{

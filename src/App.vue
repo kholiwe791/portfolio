@@ -24,6 +24,7 @@ Footer
 
 body{
 margin:0;
+padding-top:80px;
 font-family:"Poppins", sans-serif;
 background:#f1f5f9;
 color:#1e293b;
