@@ -26,7 +26,7 @@ and creating user-friendly digital solutions.
 </div>
 
 <div class="about-image">
-<img src="https://via.placeholder.com/300" alt="profile">
+<img src="/Port1.jpeg" alt="profile">
 </div>
 
 </div>
@@ -60,6 +60,10 @@ margin-bottom:20px;
 
 .about-image img{
 border-radius:20px;
+width:280px;
+height:280px;
+object-fit:cover;
+display:block;
 box-shadow:0 10px 25px rgba(0,0,0,0.1);
 }
 

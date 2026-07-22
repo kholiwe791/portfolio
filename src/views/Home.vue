@@ -41,7 +41,7 @@
     </div>
 
     <div class="hero-image">
-      <img src="https://via.placeholder.com/400" alt="developer">
+      <img src="/Port2.jpeg" alt="developer">
     </div>
 
   </section>
@@ -113,7 +113,10 @@ color:white;
 
 .hero-image img{
 border-radius:20px;
-width:350px;
+width:260px;
+height:260px;
+object-fit:cover;
+display:block;
 box-shadow:0 10px 30px rgba(0,0,0,0.1);
 }
 

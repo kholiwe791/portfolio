@@ -2,7 +2,7 @@
 
 <nav class="nav">
 
-<h2 class="logo">Kholiwe</h2>
+<h2 class="logo">&lt;Code by Kholiwe/&gt;</h2>
 
 <ul>
 
@@ -48,6 +48,9 @@ padding-bottom:4px;
 
 .logo{
 color:#3b82f6;
+font-family: 'JetBrains Mono', monospace;
+font-size: 1.2rem;
+font-weight: 600;
 }
 
 ul{

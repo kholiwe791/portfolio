@@ -30,6 +30,10 @@
       </div>
 
     </div>
+
+    <p class="github-note">
+      All of these projects are available on GitHub.
+    </p>
   </section>
 </template>
 
@@ -77,6 +81,12 @@ h1 {
   transform: translateY(-8px) scale(1.02);
   border-top: 4px solid #3b82f6;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.12);
+}
+
+.github-note {
+  margin-top: 30px;
+  color: #2563eb;
+  font-weight: 600;
 }
 
 @media (max-width: 600px) {
