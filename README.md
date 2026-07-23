@@ -70,7 +70,7 @@ http://localhost:5173
 
 ## 🌐 Live Demo
 
-Coming Soon
+https://kholiwe791.github.io/portfolio/#/
 
 ## 📬 Contact
 
